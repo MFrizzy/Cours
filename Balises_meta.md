@@ -23,11 +23,11 @@
 ```
 <meta property="" content="">
 ```
-| property | description |
-|-|-|-|
-| `og:title` | Titre de la carte |
-| `og:type` | Type de la carte : article, website, book .. |
-| `og:url` | L'adresse url |
-| `og:image` | Image de description |
-| `og:description` | Description |
-| `og:title` | Titre de la carte |
+| name                  | description                                                   |
+| --------------------- | ------------------------------------------------------------- |
+| `og:title`            | Titre de la carte                                             |
+| `og:type`             | Type de la carte : article, website, book ..                  |
+| `og:url`              | L'adresse url                                                 |
+| `og:image`            | Image de description                                          |
+| `og:description`      | Description                                                   |
+| `og:title`            | Titre de la carte                                             |
